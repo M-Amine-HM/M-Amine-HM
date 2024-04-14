@@ -7,7 +7,8 @@
  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
  <h3>About me</h3>
  
-I am Mohamed ElAmine a Computer Science Student I am 21 years old I am passionate about frontend backend development.
+I am Mohamed ElAmine a Computer Science Student I am 21 years old 
+I am passionate about Mobile Development, IOT, and AI technologies.
 
 🔭 I’m currently working on **my end of studies project**
 
