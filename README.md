@@ -12,7 +12,7 @@ I am passionate about Mobile Development, IOT, and AI technologies.
 
 🔭 I’m currently working on **my end of studies project**
 
-💬 Ask me about **Flutter , Python , Java ,JavaSrcipt**
+💬 Ask me about **Flutter , Python , Java , JavaSrcipt**
 
 📫 How to reach me **mohamedaminehm07@gmail.com**
 ##
