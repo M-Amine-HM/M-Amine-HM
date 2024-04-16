@@ -15,7 +15,11 @@ I am passionate about Mobile Development, IOT, and AI technologies.
 💬 Ask me about **Flutter , Python , Java , JavaSrcipt**
 
 📫 How to reach me **mohamedaminehm07@gmail.com**
+
+![Github Page Visit Count](https://komarev.com/ghpvc/?username=M-Amine-HM)
 ##
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
