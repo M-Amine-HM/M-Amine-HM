@@ -7,7 +7,7 @@
  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
  <h3>About me</h3>
  
-I am Mohamed ElAmine , Third-year Computer Engineering student passionate about mobile development. Focused on solving complex problems with clean, user-focused solutions. Continuously learning and driven to build efficient, scalable systems with real-world impact.
+I am Mohamed ElAmine, a fourth-year Computer Engineering student specializing in artificial intelligence and experienced in mobile development. Focused on solving complex problems with clean, user-focused solutions. Continuously learning and driven to build efficient, scalable systems with real-world impact.
 
 💬 Ask me about **Flutter , Python , Java , JavaSrcipt**
 
