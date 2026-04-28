@@ -100,13 +100,6 @@ I sit at the intersection of **machine learning research** and **practical softw
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M-Amine-HM&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1"/>
-</div>
-
----
 
 ## 📜 Certifications
 
