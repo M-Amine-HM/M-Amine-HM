@@ -1,8 +1,7 @@
 <div align="center">
 
-<!-- Animated Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2B97C7&center=true&vCenter=true&random=false&width=500&height=60&lines=Hey%2C+I'm+Amine+%F0%9F%91%8B;AI+%26+Full-Stack+Engineer;Deep+Learning+%C2%B7+Computer+Vision;Building+intelligent+apps+that+ship." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2B97C7&center=true&vCenter=true&random=false&width=520&height=60&lines=Hey%2C+I'm+Amine+%F0%9F%91%8B;AI+%26+Full-Stack+Engineer;Deep+Learning+%C2%B7+Computer+Vision;Building+intelligent+apps+that+ship." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,13 +18,13 @@
 
 I'm a **fourth-year Computer Science engineering student** specializing in **Artificial Intelligence & Data Science** at EPI – International Multidisciplinary School.
 
-I sit at the intersection of **machine learning research** and **practical software engineering** — I don't just train models, I integrate them into real web and mobile products that ship.
+I don't just train models — I build products powered by them.
 
 - 🤖 Focused on **Machine Learning**, **Deep Learning**, and **Computer Vision** — building intelligent web & mobile applications
 - ⚡ **Competitive Programming Enthusiast** — algorithmic thinking & problem solving
 - 💡 Technical Lead at **EPI Competitive Programming Club**
 - 🌍 Volunteer — **FIFA World Cup Qatar 2022**
-- 🎯 Actively seeking an **AI Internship 2025**
+- 🎯 Actively seeking an **AI Internship 2026**
 - 📫 **mohamedaminehm07@gmail.com**
 
 ---
@@ -38,6 +37,8 @@ I sit at the intersection of **machine learning research** and **practical softw
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-00A67E?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
@@ -49,12 +50,15 @@ I sit at the intersection of **machine learning research** and **practical softw
 
 ---
 
-## 📱 Mobile & Web Development
+## 🌐 Web & Mobile Development
 
 <p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -75,6 +79,9 @@ I sit at the intersection of **machine learning research** and **practical softw
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
@@ -82,13 +89,13 @@ I sit at the intersection of **machine learning research** and **practical softw
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=M-Amine-HM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Amine-HM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Amine-HM&theme=tokyonight&hide_border=true" height="180"/>
@@ -100,7 +107,6 @@ I sit at the intersection of **machine learning research** and **practical softw
 
 ---
 
-
 ## 📜 Certifications
 
 <p align="center">
@@ -111,7 +117,7 @@ I sit at the intersection of **machine learning research** and **practical softw
 
 ---
 
-## 🌐 Languages
+## 🌍 Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/Arabic-Native-2b97c7?style=for-the-badge"/>
@@ -122,5 +128,5 @@ I sit at the intersection of **machine learning research** and **practical softw
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=2B97C7&center=true&vCenter=true&width=500&lines=I+don't+just+train+models+%E2%80%94+I+build+products+powered+by+them." alt="quote"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=2B97C7&center=true&vCenter=true&width=520&lines=I+don't+just+train+models+%E2%80%94+I+build+products+powered+by+them." alt="quote"/>
 </div>
