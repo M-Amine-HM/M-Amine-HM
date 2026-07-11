@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-I'm a **fourth-year Computer Science engineering student** specializing in **Artificial Intelligence & Data Science** at EPI – International Multidisciplinary School.
+I'm a **final-year Computer Science engineering student** specializing in **Artificial Intelligence & Data Science** at EPI – International Multidisciplinary School.
 
 I don't just train models — I build products powered by them.
 
