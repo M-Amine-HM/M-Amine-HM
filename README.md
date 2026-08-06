@@ -13,22 +13,17 @@
 </div>
 
 ---
-
 ## 🧠 About Me
-
 I'm a **final-year Computer Science engineering student** specializing in **Artificial Intelligence & Data Science** at EPI – International Multidisciplinary School.
-
 I don't just train models — I build products powered by them.
-
 - 🤖 Focused on **Machine Learning**, **Deep Learning**, and **Computer Vision** — building intelligent web & mobile applications
 - ⚡ **Competitive Programming Enthusiast** — algorithmic thinking & problem solving
 - 💡 Technical Lead at **EPI Competitive Programming Club**
 - 🌍 Volunteer — **FIFA World Cup Qatar 2022**
 - 🎯 Actively seeking an **AI Internship 2026**
 - 📫 **mohamedaminehm07@gmail.com**
-
----
-
+- 🌐 **Portfolio:** [aminehm-portfolio.vercel.app](https://aminehm-portfolio.vercel.app/)
+---  
 ## 🤖 AI & Machine Learning
 
 <p align="center">
